@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OuroboLee
 - 👀 I’m interested in Python / Pygame / And more ...?
-- 🌱 I’m currently learning Computer Science / Computer Engineering in Sungkyunkwan Univ. Currently 
+- 🌱 I’m currently learning Computer Science / Computer Engineering in Sungkyunkwan Univ.
 - 📫 How to reach me: Email -> ourobolee@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
